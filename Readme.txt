@@ -1,0 +1,1 @@
+Arduino and XBee based circuit that allows for full customization for the remote control vehicle including variable speed control, multiple light modes, and sounds.
